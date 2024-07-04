@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to reverse engineer
 - 📫 How to reach me (you can't)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Tubercomiosis is a fusion of "Tuberculosis" and "Comium"
+- ⚡ Fun fact: Every April I will change my name on YouTube to Tuberculosis99
 
 <!---
 Tubercomiosis99/Tubercomiosis99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

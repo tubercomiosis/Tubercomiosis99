@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tubercomiosis99
+- 👋 Hi, I’m Tubercomiosis99, aka Tuberculosis99, TC, Tubercomi, tubercultech
 - 👀 I’m interested in GDI malwares and reverse engineering
 - 🌱 I’m currently learning how to reverse engineer
 - 📫 How to reach me (you can't)

@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Tubercomiosis99, aka Tuberculosis99, TC, Tubercomi, TC99
 - 👀 I’m interested in GDI malwares and reverse engineering
-- 🌱 I’m currently learning... Eh I ain't learning anything.
+- 🌱 I’m currently learning C++
 - 📫 How to reach me (you can't)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Every April I will change my name on YouTube to Tuberculosis99
+- ⚡ Fun fact: no fun fact :skull:
 - <!--eggs-->
 
 <!---
